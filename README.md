@@ -31,6 +31,14 @@
          width="30" />
   </a>
   
+  <a href="https://twitter.com/redhaanggara" target="_blank">
+    <img align="center" 
+         src="https://img.icons8.com/ios-filled/50/000000/twitter.png" 
+         alt="redha-bayu-anggara" 
+         height="30" 
+         width="30" />
+  </a>
+  
   <a href="https://www.youtube.com/watch?v=htgr3pvBr-I" target="_blank">
     <img align="center" 
          src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" 
