@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently try to learning be 
+- 🌱 I’m currently try to learning be wised engineer
 - 📫 How to reach me: redhabayuanggara@gmail.com
 - ⚡ Fun fact: im happy to join any else things, as much as that is super cool
 
