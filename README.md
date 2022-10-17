@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently try to learning anythings
+- 🌱 I’m currently try to learning be 
 - 📫 How to reach me: redhabayuanggara@gmail.com
 - ⚡ Fun fact: im happy to join any else things, as much as that is cool and happy
 
