@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thanks so much for coming here, hope everything will be gratefull 👋
 
 - 🌱 I’m currently try to learning be wised engineer
 - 📫 How to reach me: redhabayuanggara@gmail.com
