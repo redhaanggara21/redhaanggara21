@@ -25,7 +25,7 @@
  
   <a href="https://www.instagram.com/redhabayuanggara/" target="_blank">
     <img align="center" 
-         src="https://img.icons8.com/material-rounded/24/000000/instagram-new.png" 
+         src="https://img.icons8.com/material-rounded/96/000000/instagram-new.png" 
          alt="redha-bayu-anggara" 
          height="30" 
          width="30" />
