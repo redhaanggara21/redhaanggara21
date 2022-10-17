@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently try to learning be 
 - 📫 How to reach me: redhabayuanggara@gmail.com
-- ⚡ Fun fact: im happy to join any else things, as much as that is cool and happy
+- ⚡ Fun fact: im happy to join any else things, as much as that is super cool
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +18,7 @@
   <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="redha-bayu-anggara" height="30" width="30" />
  </a>
   </a>
-  <a href="https://www.youtube.com/watch?v=V3IGj6tbzAk" target="blank">
+  <a href="https://www.youtube.com/watch?v=LJn-R8BEIYw" target="blank">
   <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png" alt="redha-bayu-anggara" height="30" width="30" />
  </a>
 
