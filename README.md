@@ -17,6 +17,10 @@
   <a href="https://www.instagram.com/redhabayuanggara/" target="blank">
   <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="redha-bayu-anggara" height="30" width="30" />
  </a>
- 
+  </a>
+  <a href=" https://www.youtube.com/channel/UChGOfZQd0xqy18pnUrk7cxw" target="blank">
+  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png" alt="redha-bayu-anggara" height="30" width="30" />
+ </a>
+
  
 </p>
