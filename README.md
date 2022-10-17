@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/redha-bayu-anggara-55a219b9/" target="blank">
+<a href="https://www.linkedin.com/in/redha-bayu-anggara-55a219b9/" target="_blank">
   <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="redha-bayu-anggara" height="30" width="30" />
  </a>
 <a href="https://medium.com/@redhabayuanggara" target="_blank">
