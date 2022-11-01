@@ -1,8 +1,6 @@
 ### Thanks so much for coming here 👋
 
-- 🌱 I’m currently try to learning ...
 - 📫 Lets we getting conversation: redhabayuanggara@gmail.com
-- ⚡ Fun fact: i am happy to join any else things, as much as that is super cool and happy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
