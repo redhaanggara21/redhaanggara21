@@ -1,4 +1,4 @@
-### Thanks so much for coming here 👋
+### Just Page Learning, Sometimes Share - Often Learn
 
 - 📫 Lets we getting conversation: redhabayuanggara@gmail.com
 
