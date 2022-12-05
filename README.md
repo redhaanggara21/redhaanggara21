@@ -1,7 +1,7 @@
 ### Just Page Learning, Sometimes Share - Often Learn
 
 - 📫 Lets we getting conversation: redhabayuanggara@gmail.com
-- Buymecofee: https://www.buymeacoffee.com/my-account/edit-profile
+- ☕️ Buymecoffe: https://www.buymeacoffee.com/redhaanggara
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -12,7 +12,7 @@
          height="30" 
          width="30" />
   </a>
- 
+
   <a href="https://medium.com/@redhabayuanggara" target="_blank">
     <img align="center" 
          src="https://img.icons8.com/sf-regular-filled/96/000000/medium-logo.png" 
