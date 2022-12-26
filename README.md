@@ -37,7 +37,7 @@
          width="30" />
   </a>
   
-  <a href="https://www.youtube.com/watch?v=8R6StQfLNbw" target="_blank">
+  <a href="https://www.youtube.com/channel/UChGOfZQd0xqy18pnUrk7cxw" target="_blank">
     <img align="center" 
          src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" 
          alt="redha-bayu-anggara" 
