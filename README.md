@@ -1,4 +1,4 @@
-### Just Page Learning NODE, Java, Python, C, RUBY AND GO , Sometimes Share - Often Learn
+### Take Page NODE, Java, Python, C, RUBY AND GO
 
 - 📫 Lets we getting conversation: redhabayuanggara@gmail.com
 - ☕️ Buymecoffe: https://www.buymeacoffee.com/redhaanggara
