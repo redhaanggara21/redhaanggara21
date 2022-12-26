@@ -1,4 +1,4 @@
-### Take Page PHP, NODE, Java, Python, C, RUBY AND GO
+### Take Page PHP, NODE, Java, Python, C, RUBY, Kotlin, Swift AND GO
 
 - 📫 Lets we getting conversation: redhabayuanggara@gmail.com
 - ☕️ Buymecoffe: https://www.buymeacoffee.com/redhaanggara
