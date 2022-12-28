@@ -12,10 +12,19 @@
          height="30" 
          width="30" />
   </a>
+  
 
   <a href="https://medium.com/@redhabayuanggara" target="_blank">
     <img align="center" 
          src="https://img.icons8.com/sf-regular-filled/96/000000/medium-logo.png" 
+         alt="redha-bayu-anggara" 
+         height="30" 
+         width="30" />
+  </a>
+  
+ <a href="https://dev.to/redhabayuanggara" target="_blank">
+    <img align="center" 
+         src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" 
          alt="redha-bayu-anggara" 
          height="30" 
          width="30" />
