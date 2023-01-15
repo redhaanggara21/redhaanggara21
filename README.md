@@ -2,7 +2,7 @@
 
 - 📫 Lets we getting conversation: redhabayuanggara@gmail.com
 - ☕️ Buymecoffe: https://www.buymeacoffee.com/redhaanggara
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">i am active on</h3>
 <p align="left">
 
   <a href="https://www.linkedin.com/in/redha-bayu-anggara-55a219b9/" target="_blank">
