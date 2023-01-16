@@ -4,6 +4,7 @@
 - ☕️ Buymecoffe: https://www.buymeacoffee.com/redhaanggara
 - Meet Gather: https://app.gather.town/app/AOESodFTx49juFsh/after-school
 - Dribbble: https://dribbble.com/redhaanggara
+- Figma: https://www.figma.com/file/nFkrImtAQM8asDaaTJOs8s/Untitled?node-id=0%3A1&t=hDMFEtAe1FiIlkXO-1
 <h3 align="left">i am active on</h3>
 <p align="left">
 
