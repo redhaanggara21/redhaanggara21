@@ -20,7 +20,7 @@
 
   <a href="https://medium.com/@redhabayuanggara" target="_blank">
     <img align="center" 
-         src="https://user-images.githubusercontent.com/19183619/212618411-84532711-1a15-4774-ac8e-edc81788564c.png" 
+         src="https://img.icons8.com/color-glass/48/null/medium-logo.png" 
          alt="redha-bayu-anggara" 
          height="30" 
          width="30" />
