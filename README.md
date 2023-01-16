@@ -18,7 +18,7 @@
 
   <a href="https://medium.com/@redhabayuanggara" target="_blank">
     <img align="center" 
-         src="https://user-images.githubusercontent.com/19183619/212618094-457ea000-5200-4d5f-befa-a49b1e0af510.png" 
+         src="https://user-images.githubusercontent.com/19183619/212618411-84532711-1a15-4774-ac8e-edc81788564c.png" 
          alt="redha-bayu-anggara" 
          height="30" 
          width="30" />
