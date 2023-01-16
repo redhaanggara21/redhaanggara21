@@ -6,7 +6,7 @@
 - Dribbble: https://dribbble.com/redhaanggara
 - Figma: https://www.figma.com/file/nFkrImtAQM8asDaaTJOs8s/Untitled?node-id=0%3A1&t=hDMFEtAe1FiIlkXO-1
 - Archival Research: https://drive.google.com/drive/folders/1qlJjAvhv9uiwEQuQIibWVmw-eGUaJUhT?usp=share_link
-- Hackerank: https://www.hackerrank.com/redhabayuanggara
+- Hackerrank: https://www.hackerrank.com/redhabayuanggara
 
 <h3 align="left">i am active on</h3>
 <p align="left">
