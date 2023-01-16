@@ -28,7 +28,7 @@
   
  <a href="https://dev.to/redhabayuanggara" target="_blank">
     <img align="center" 
-         src="https://user-images.githubusercontent.com/19183619/212617959-8f3ce944-5773-490f-809c-95cf1303ebf8.png" 
+         src="https://img.icons8.com/windows/32/000000/dev.png" 
          alt="redha-bayu-anggara" 
          height="30" 
          width="30" />
