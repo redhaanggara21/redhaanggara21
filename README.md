@@ -48,9 +48,18 @@
          width="30" />
   </a>
   
+  
   <a href="https://www.youtube.com/channel/UChGOfZQd0xqy18pnUrk7cxw" target="_blank">
     <img align="center" 
          src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" 
+         alt="redha-bayu-anggara" 
+         height="30" 
+         width="30" />
+  </a>
+  
+  <a href="https://www.twitch.tv/redhaanggara" target="_blank">
+    <img align="center" 
+         src="https://user-images.githubusercontent.com/19183619/212617297-248b0035-532e-417e-88f4-e7759a095b16.png" 
          alt="redha-bayu-anggara" 
          height="30" 
          width="30" />
