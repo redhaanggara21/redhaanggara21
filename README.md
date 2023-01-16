@@ -9,7 +9,7 @@
 
   <a href="https://www.linkedin.com/in/redha-bayu-anggara-55a219b9/" target="_blank">
     <img align="center" 
-         src="https://img.icons8.com/glyph-neue/64/000000/linkedin-circled.png" 
+         src="https://user-images.githubusercontent.com/19183619/212618156-f7ebbdb0-4ede-4f40-9f50-8d3752d6e232.png" 
          alt="redha-bayu-anggara" 
          height="30" 
          width="30" />
@@ -18,7 +18,7 @@
 
   <a href="https://medium.com/@redhabayuanggara" target="_blank">
     <img align="center" 
-         src="https://img.icons8.com/sf-regular-filled/96/000000/medium-logo.png" 
+         src="https://user-images.githubusercontent.com/19183619/212618094-457ea000-5200-4d5f-befa-a49b1e0af510.png" 
          alt="redha-bayu-anggara" 
          height="30" 
          width="30" />
@@ -26,7 +26,7 @@
   
  <a href="https://dev.to/redhabayuanggara" target="_blank">
     <img align="center" 
-         src="https://img.icons8.com/windows/32/null/dev.png" 
+         src="https://user-images.githubusercontent.com/19183619/212617959-8f3ce944-5773-490f-809c-95cf1303ebf8.png" 
          alt="redha-bayu-anggara" 
          height="30" 
          width="30" />
@@ -34,7 +34,7 @@
  
   <a href="https://www.instagram.com/redhabayuanggara/" target="_blank">
     <img align="center" 
-         src="https://user-images.githubusercontent.com/19183619/212617433-a7020918-0777-4f58-98a3-9a504f70d256.png" 
+         src="![image](https://user-images.githubusercontent.com/19183619/212617850-ba0b6613-01ac-41c9-9739-dde185933d9c.png)" 
          alt="redha-bayu-anggara" 
          height="30" 
          width="30" />
@@ -51,7 +51,7 @@
   
   <a href="https://www.youtube.com/channel/UChGOfZQd0xqy18pnUrk7cxw" target="_blank">
     <img align="center" 
-         src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" 
+         src="https://user-images.githubusercontent.com/19183619/212617433-a7020918-0777-4f58-98a3-9a504f70d256.png" 
          alt="redha-bayu-anggara" 
          height="30" 
          width="30" />
