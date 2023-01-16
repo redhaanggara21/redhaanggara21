@@ -34,7 +34,7 @@
  
   <a href="https://www.instagram.com/redhabayuanggara/" target="_blank">
     <img align="center" 
-         src="https://img.icons8.com/material-rounded/96/000000/instagram-new.png" 
+         src="https://user-images.githubusercontent.com/19183619/212617433-a7020918-0777-4f58-98a3-9a504f70d256.png" 
          alt="redha-bayu-anggara" 
          height="30" 
          width="30" />
@@ -42,7 +42,7 @@
   
   <a href="https://twitter.com/redhaanggara" target="_blank">
     <img align="center" 
-         src="https://img.icons8.com/ios-filled/50/000000/twitter.png"
+         src="https://user-images.githubusercontent.com/19183619/212617531-5d5bbfe1-21f3-4d49-92e0-7123c637873e.png"
          alt="redha-bayu-anggara"
          height="30"
          width="30" />
