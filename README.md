@@ -64,7 +64,7 @@
          src="https://user-images.githubusercontent.com/19183619/212617297-248b0035-532e-417e-88f4-e7759a095b16.png" 
          alt="redha-bayu-anggara" 
          height="30" 
-         width="30" />
+         width="30"/>
   </a>
 
 </p>
