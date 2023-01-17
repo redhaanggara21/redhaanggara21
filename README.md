@@ -7,7 +7,7 @@
 - Figma: https://www.figma.com/file/nFkrImtAQM8asDaaTJOs8s/Untitled?node-id=0%3A1&t=hDMFEtAe1FiIlkXO-1
 - Archival Research: https://drive.google.com/drive/folders/1qlJjAvhv9uiwEQuQIibWVmw-eGUaJUhT?usp=share_link
 - Hackerrank: https://www.hackerrank.com/redhabayuanggara
-
+- Micro-Controller: https://discord.com/channels/1064786477491441685/1064786478145749004
 <h3 align="left">i am active on</h3>
 <p align="left">
 
