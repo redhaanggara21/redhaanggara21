@@ -9,7 +9,7 @@
 - Hackerrank: https://www.hackerrank.com/redhabayuanggara
 - Micro-Controller: https://discord.com/channels/1064786477491441685/1064786478145749004
 - Deck Budi: https://laraja21.budibase.app/app/milih
-- On Learning lowcode like: https://fastapi.tiangolo.com/
+- On Learning : https://fastapi.tiangolo.com/
 <h3 align="left">i am active on</h3>
 <p align="left">
 
