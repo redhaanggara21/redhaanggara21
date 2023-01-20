@@ -10,8 +10,8 @@
 - Micro-Controller: https://discord.com/channels/1064786477491441685/1064786478145749004
 - Deck Budi: https://laraja21.budibase.app/app/milih
 - On Learning : 
-      - https://fastapi.tiangolo.com/
-      - https://hilla.dev/
+      https://fastapi.tiangolo.com/
+      https://hilla.dev/
 <h3 align="left">i am active on</h3>
 <p align="left">
 
