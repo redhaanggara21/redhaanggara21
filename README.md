@@ -10,8 +10,8 @@
 - Micro-Controller: https://discord.com/channels/1064786477491441685/1064786478145749004
 - Deck Budi: https://laraja21.budibase.app/app/milih
 - On Learning : 
-      https://fastapi.tiangolo.com/
-      https://hilla.dev/
+      https://fastapi.tiangolo.com/,
+      https://hilla.dev/, https://ethereum.org/en/
 <h3 align="left">i am active on</h3>
 <p align="left">
 
@@ -68,6 +68,14 @@
   <a href="https://www.twitch.tv/redhaanggara" target="_blank">
     <img align="center" 
          src="https://user-images.githubusercontent.com/19183619/212617297-248b0035-532e-417e-88f4-e7759a095b16.png" 
+         alt="redha-bayu-anggara" 
+         height="30" 
+         width="30"/>
+  </a>
+      
+  <a href="https://www.facebook.com/redha.anggara" target="_blank">
+    <img align="center" 
+         src="https://img.icons8.com/color/96/null/facebook-new.png" 
          alt="redha-bayu-anggara" 
          height="30" 
          width="30"/>
