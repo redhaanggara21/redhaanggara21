@@ -14,7 +14,7 @@
 - On Learning : 
       https://fastapi.tiangolo.com/,
       https://hilla.dev/, https://ethereum.org/en/
-<h3 align="left">i am active on</h3>
+<h3 align="left">Social</h3>
 <p align="left">
 
   <a href="https://www.linkedin.com/in/redha-bayu-anggara-55a219b9/" target="_blank">
