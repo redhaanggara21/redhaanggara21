@@ -17,11 +17,11 @@
 	- https://hola-template-6s8kkr.teleporthq.app/
 	- https://app.siter.io/VgBZ7R1vWLUKgf9PyHKM3E37P/preview
 	- https://nameit.squarespace.com/
-- On Learning: 
-      	- https://fastapi.tiangolo.com/
-      	- https://hilla.dev/ 
-      	- https://ethereum.org/en/
-      	- https://go.dev/
+- On Learning:
+	- https://fastapi.tiangolo.com/
+	- https://hilla.dev/ 
+	- https://ethereum.org/en/
+	- https://go.dev/
 <h3 align="left">Social</h3>
 <p align="left">
 
