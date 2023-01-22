@@ -2,7 +2,6 @@
 
 - 📫 Lets we getting conversation: redhabayuanggara@gmail.com
 - ☕️ Buymecoffe: https://www.buymeacoffee.com/redhaanggara
-- Meet Gather: https://app.gather.town/app/AOESodFTx49juFsh/after-school
 - Dribbble: https://dribbble.com/redhaanggara
 - Figma: https://www.figma.com/file/nFkrImtAQM8asDaaTJOs8s/Untitled?node-id=0%3A1&t=hDMFEtAe1FiIlkXO-1
 - Archival Research: https://drive.google.com/drive/folders/1qlJjAvhv9uiwEQuQIibWVmw-eGUaJUhT?usp=share_link
@@ -10,6 +9,7 @@
 - Group:
 	- https://discord.com/channels/1064786477491441685/1064786478145749004
 	- https://app.slack.com/client/T04KRM2MUUE/C04LN0ES1DE
+	- https://app.gather.town/app/AOESodFTx49juFsh/after-school
 - Build Sketch: 
 	- https://bahtani.vercel.app/ 
 	- https://new-energy-92e482.webflow.io
