@@ -8,9 +8,15 @@
 - Archival Research: https://drive.google.com/drive/folders/1qlJjAvhv9uiwEQuQIibWVmw-eGUaJUhT?usp=share_link
 - Hackerrank: https://www.hackerrank.com/redhabayuanggara
 - Group: https://discord.com/channels/1064786477491441685/1064786478145749004, https://app.slack.com/client/T04KRM2MUUE/C04LN0ES1DE
-- Deck Budi: https://laraja21.budibase.app/app/milih
-- Build Sketch: https://bahtani.vercel.app/ 
-- Hope That Standalone: https://new-energy-92e482.webflow.io/about
+- Build Sketch: 
+	- https://bahtani.vercel.app/ 
+	- https://new-energy-92e482.webflow.io
+	- https://ayumas.framer.website/
+	- https://redhabayuanggara.editorx.io/bta55
+	- https://laraja21.budibase.app/app/milih
+	- https://hola-template-6s8kkr.teleporthq.app/
+	- https://app.siter.io/VgBZ7R1vWLUKgf9PyHKM3E37P/preview
+	- https://nameit.squarespace.com/
 - On Learning : 
       https://fastapi.tiangolo.com/,
       https://hilla.dev/, https://ethereum.org/en/
