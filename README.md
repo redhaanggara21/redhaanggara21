@@ -25,6 +25,7 @@
 	- https://ethereum.org/en/
 	- https://go.dev/
 	- https://app.datacamp.com/learn/courses
+	- https://www.infura.io/
 <h3 align="left">Social</h3>
 <p align="left">
 
