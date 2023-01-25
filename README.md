@@ -99,15 +99,13 @@
 
 <h3 align="left">Store</h3>
 <p align="left">
-  
-	<a href="https://apps.apple.com/bm/developer/redpo-digital/id828821125)" target="_blank">
+	<a href="https://apps.apple.com/bm/developer/redpo-digital/id828821125" target="_blank">
 	    <img align="center" 
 		 src="https://user-images.githubusercontent.com/19183619/214553968-7a5cb8e6-2c58-40b9-9e08-047e5a0f81dd.png" 
 		 alt="redha-bayu-anggara" 
 		 height="30" 
 		 width="30"/>
 	</a>
-	
 	<a href="https://play.google.com/store/apps/developer?id=palembang-digital-society" target="_blank">
 	    <img align="center" 
 		 src="https://user-images.githubusercontent.com/19183619/214553770-2269c0cf-4c00-41a4-a2e0-38f8cbb5ab07.png" 
@@ -115,6 +113,4 @@
 		 height="30" 
 		 width="30"/>
 	</a>
-	
-	
 </p>
