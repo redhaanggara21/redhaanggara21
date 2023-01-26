@@ -101,7 +101,7 @@
          alt="redha-bayu-anggara" 
          height="30" 
          width="30"/>
-  </a>**
+  </a>
 
 </p>
 
