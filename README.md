@@ -102,6 +102,15 @@
          height="30" 
          width="30"/>
   </a>
+	
+  <a href="https://www.tiktok.com/@redhabayuanggara" target="_blank">
+    <img align="center" 
+         src="https://img.icons8.com/ios-filled/100/null/tiktok--v1.png" 
+         alt="redha-bayu-anggara" 
+         height="30" 
+         width="30"/>
+  </a>
+	
 
 </p>
 
