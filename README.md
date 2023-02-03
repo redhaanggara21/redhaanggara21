@@ -24,9 +24,7 @@
 	- https://nameit.squarespace.com/
 - On Learning:
 	- https://fastapi.tiangolo.com/
-	- https://hilla.dev/ 
 	- https://ethereum.org/en/
-	- https://go.dev/
 	- https://app.datacamp.com/learn/courses
 	- https://www.infura.io/
 <h3 align="left">Social</h3>
