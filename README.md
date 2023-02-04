@@ -13,7 +13,7 @@
 	- https://discord.com/channels/1064786477491441685/1064786478145749004
 	- https://app.slack.com/client/T04KRM2MUUE/C04LN0ES1DE
 	- https://app.gather.town/app/AOESodFTx49juFsh/after-school
-- Build Sketch: 
+- On Build: 
 	- https://bahtani.vercel.app/ 
 	- https://new-energy-92e482.webflow.io
 	- https://ayumas.framer.website/
@@ -23,6 +23,7 @@
 	- https://app.siter.io/VgBZ7R1vWLUKgf9PyHKM3E37P/preview
 	- https://nameit.squarespace.com/
 	- https://real-lime-elk-veil.cyclic.app/
+	- https://redhaanggara21.github.io/
 - On Learning:
 	- https://fastapi.tiangolo.com/
 	- https://ethereum.org/en/
