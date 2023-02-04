@@ -13,7 +13,7 @@
 	- https://discord.com/channels/1064786477491441685/1064786478145749004
 	- https://app.slack.com/client/T04KRM2MUUE/C04LN0ES1DE
 	- https://app.gather.town/app/AOESodFTx49juFsh/after-school
-- On Build: 
+- Build Sketch: 
 	- https://bahtani.vercel.app/ 
 	- https://new-energy-92e482.webflow.io
 	- https://ayumas.framer.website/
