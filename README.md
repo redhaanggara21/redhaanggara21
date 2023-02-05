@@ -6,7 +6,6 @@
 - Figma: https://www.figma.com/file/nFkrImtAQM8asDaaTJOs8s/Untitled?node-id=0%3A1&t=hDMFEtAe1FiIlkXO-1
 - Archival Research: 
 	- Directory: https://drive.google.com/drive/folders/1qlJjAvhv9uiwEQuQIibWVmw-eGUaJUhT?usp=share_link
-	- Delivery Kargo Concept: https://docs.google.com/spreadsheets/d/1z36u0nlB5ADejAWMixLHc1doCfUh1cmFUvRI9aN87F8/edit#gid=0 
 - Hackerrank: 
 	- https://www.hackerrank.com/redhabayuanggara
 - Group:
