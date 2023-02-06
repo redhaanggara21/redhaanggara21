@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hallo, I'm redha
 
 - Buy me Coffe: https://www.buymeacoffee.com/redhaanggara
 - Build Sketch: 
