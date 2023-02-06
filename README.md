@@ -1,17 +1,6 @@
 ### Page Collaborate PHP, NODE, React, Angular, Vue, Java, Python, C, RUBY, Kotlin, Dart, Swift AND GO
 
-- 📫 Lets we getting conversation: redhabayuanggara@gmail.com
 - Buy me Coffe: https://www.buymeacoffee.com/redhaanggara
-- Dribbble: https://dribbble.com/redhaanggara
-- Figma: https://www.figma.com/file/nFkrImtAQM8asDaaTJOs8s/Untitled?node-id=0%3A1&t=hDMFEtAe1FiIlkXO-1
-- Archival Research: 
-	- Directory: https://drive.google.com/drive/folders/1qlJjAvhv9uiwEQuQIibWVmw-eGUaJUhT?usp=share_link
-- Hackerrank: 
-	- https://www.hackerrank.com/redhabayuanggara
-- Group:
-	- https://discord.com/channels/1064786477491441685/1064786478145749004
-	- https://app.slack.com/client/T04KRM2MUUE/C04LN0ES1DE
-	- https://app.gather.town/app/AOESodFTx49juFsh/after-school
 - Build Sketch: 
 	- https://bahtani.vercel.app/ 
 	- https://new-energy-92e482.webflow.io
@@ -29,6 +18,7 @@
 	- https://app.datacamp.com/learn/courses
 	- https://www.infura.io/
 	- https://docs.x.immutable.com/
+	
 <h3 align="left">Social</h3>
 <p align="left">
 
