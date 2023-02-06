@@ -1,6 +1,5 @@
-### Hallo, I'm redha
+### Hallo, I'm redha 
 
-- Buy me Coffe: https://www.buymeacoffee.com/redhaanggara
 - Build Sketch: 
 	- https://bahtani.vercel.app/ 
 	- https://new-energy-92e482.webflow.io
