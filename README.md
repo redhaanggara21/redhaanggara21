@@ -17,6 +17,9 @@
 	- https://app.datacamp.com/learn/courses
 	- https://www.infura.io/
 	- https://docs.x.immutable.com/
+- Alpha Testing:
+	- https://icy-bush-3198.on.fleek.co/
+	- https://react-se-gd.vercel.app/
 	
 <h3 align="left">Social</h3>
 <p align="left">
