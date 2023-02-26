@@ -128,4 +128,11 @@
 		 height="30" 
 		 width="30"/>
 	</a>
+	<a href="https://play.google.com/store/apps/developer?id=palembang-digital-society" target="_blank">
+	    <img align="center" 
+		 src="https://logoeps.com/wp-content/uploads/2014/07/24423-codecanyon-logo-envato-icon-vector-icon-vector-eps.png" 
+		 alt="redha-bayu-anggara" 
+		 height="30" 
+		 width="30"/>
+	</a>
 </p>
