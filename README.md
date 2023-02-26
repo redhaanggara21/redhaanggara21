@@ -21,7 +21,6 @@
 	- https://icy-bush-3198.on.fleek.co/
 	- https://react-se-gd.vercel.app/
 	- https://zeni-portofolio.vercel.app/
-	- https://audiojungle.net/user/redhabayuanggara
 	- https://order-banner-gsionqlr5-redhaanggara21.vercel.app/
 	
 <h3 align="left">Social</h3>
@@ -128,9 +127,9 @@
 		 height="30" 
 		 width="30"/>
 	</a>
-	<a href="https://play.google.com/store/apps/developer?id=palembang-digital-society" target="_blank">
+	<a href="https://codecanyon.net/user/redhabayuanggara" target="_blank">
 	    <img align="center" 
-		 src="https://logoeps.com/wp-content/uploads/2014/07/24423-codecanyon-logo-envato-icon-vector-icon-vector-eps.png" 
+		 src="https://cdn.lovesavingsgroup.com/logos/codecanyon.png" 
 		 alt="redha-bayu-anggara" 
 		 height="30" 
 		 width="30"/>
