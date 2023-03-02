@@ -23,6 +23,7 @@
 	- https://zeni-portofolio.vercel.app/
 	- https://order-banner-gsionqlr5-redhaanggara21.vercel.app/
 	- https://angular-template.vercel.app/
+	- https://react-template-course.vercel.app/
 	
 <h3 align="left">Social</h3>
 <p align="left">
