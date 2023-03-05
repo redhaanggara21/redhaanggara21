@@ -131,7 +131,7 @@
 	</a>
 	<a href="https://codecanyon.net/user/redhabayuanggara" target="_blank">
 	    <img align="center" 
-		 src="https://cdn.lovesavingsgroup.com/logos/codecanyon.png" 
+		 src="https://i.ibb.co/6PcBMCv/download-1.png" 
 		 alt="redha-bayu-anggara" 
 		 height="30" 
 		 width="30"/>
