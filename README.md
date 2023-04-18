@@ -1,4 +1,4 @@
-### Hallo, I'm redha 
+### Welcome, keen on writing code and developing software
 
 - Build Sketch: 
 	- https://bahtani.vercel.app/ 
