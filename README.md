@@ -1,4 +1,4 @@
-### Welcome, keen on writing code and developing software
+### Welcome, im keen on writing code and developing software
 
 - Build Sketch: 
 	- https://bahtani.vercel.app/ 
