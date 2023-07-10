@@ -112,7 +112,7 @@
 
    <a href="https://hashnode.com/@redhabayuanggara21" target="_blank">
     <img align="center" 
-         src="https://icons.iconarchive.com/icons/fa-team/fontawesome-brands/256/FontAwesome-Brands-Hashnode-icon.png" 
+         src="https://w7.pngwing.com/pngs/967/518/png-transparent-hashnode-logo-thumbnail-tech-companies-thumbnail.png" 
          alt="redha-bayu-anggara" 
          height="30" 
          width="30"/>
