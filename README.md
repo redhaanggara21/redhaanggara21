@@ -25,7 +25,7 @@
 	- https://angular-template.vercel.app/
 	- https://react-template-course.vercel.app/
 	
-<h3 align="left">Social</h3>
+<h3 align="left">Social Media</h3>
 <p align="left">
 
   <a href="https://www.linkedin.com/in/redha-bayu-anggara-55a219b9/" target="_blank">
@@ -109,7 +109,14 @@
          height="30" 
          width="30"/>
   </a>
-	
+
+   <a href="https://hashnode.com/@redhabayuanggara21" target="_blank">
+    <img align="center" 
+         src="https://icons.iconarchive.com/icons/fa-team/fontawesome-brands/256/FontAwesome-Brands-Hashnode-icon.png" 
+         alt="redha-bayu-anggara" 
+         height="30" 
+         width="30"/>
+  </a>
 
 </p>
 
