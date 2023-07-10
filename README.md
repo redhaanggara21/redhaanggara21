@@ -110,7 +110,7 @@
          width="30"/>
   </a>
 
-   <a href="https://hashnode.com/@redhabayuanggara21" target="_blank">
+   <a href="https://redhabayuanggara.hashnode.dev/how-to-test-your-expressjs-and-mongoose-apps-with-jest-and-supertest" target="_blank">
     <img align="center" 
          src="https://w7.pngwing.com/pngs/967/518/png-transparent-hashnode-logo-thumbnail-tech-companies-thumbnail.png" 
          alt="redha-bayu-anggara" 
