@@ -12,6 +12,7 @@
 	- https://real-lime-elk-veil.cyclic.app/
 	- https://redhaanggara21.github.io/
 - On Learning:
+ - https://www.phoenixframework.org/
 	- https://fastapi.tiangolo.com/
 	- https://ethereum.org/en/
 	- https://app.datacamp.com/learn/courses
