@@ -12,13 +12,13 @@
 	- https://real-lime-elk-veil.cyclic.app/
 	- https://redhaanggara21.github.io/
 - On Learning:
- - https://www.phoenixframework.org/
 	- https://fastapi.tiangolo.com/
 	- https://ethereum.org/en/
 	- https://app.datacamp.com/learn/courses
 	- https://www.infura.io/
 	- https://docs.x.immutable.com/
-- Alpha Testing:
+ - https://www.phoenixframework.org/- 
+-Alpha Testing:
 	- https://icy-bush-3198.on.fleek.co/
 	- https://react-se-gd.vercel.app/
 	- https://zeni-portofolio.vercel.app/
