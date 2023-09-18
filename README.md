@@ -20,7 +20,7 @@
 	- https://docs.x.immutable.com/
         - https://www.phoenixframework.org
 
--Alpha Testing:
+- Alpha Testing:
 	- https://icy-bush-3198.on.fleek.co/
 	- https://react-se-gd.vercel.app/
 	- https://zeni-portofolio.vercel.app/
