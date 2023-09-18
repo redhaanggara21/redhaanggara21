@@ -18,7 +18,7 @@
 	- https://app.datacamp.com/learn/courses
 	- https://www.infura.io/
 	- https://docs.x.immutable.com/
- - https://www.phoenixframework.org
+        - https://www.phoenixframework.org
 
 -Alpha Testing:
 	- https://icy-bush-3198.on.fleek.co/
