@@ -27,6 +27,8 @@
 	- https://order-banner-gsionqlr5-redhaanggara21.vercel.app/
 	- https://angular-template.vercel.app/
 	- https://react-template-course.vercel.app/
+ 	- https://react-news-eight.vercel.app/
+  	- https://react-ecommerce-1kmhbvmog-redhaanggara21.vercel.app/ 	
 	
 <h3 align="left">Active On</h3>
 <p align="left">
