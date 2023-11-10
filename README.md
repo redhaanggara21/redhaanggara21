@@ -31,8 +31,9 @@
   	- https://react-ecommerce-1kmhbvmog-redhaanggara21.vercel.app/
 
 - Beta Testing
- 	- https://inomart.vercel.app/ *migrate (vercel into firebase)
-    	- https://alfamart-8fc4a.web.app/ 
+	- https://inomart.vercel.app/ *migrate (vercel into firebase)
+    	- https://alfamart-8fc4a.web.app/
+     	- https://ecommerce-with-react-2ac06.firebaseapp.com/signup
 	
 <h3 align="left">Active On</h3>
 <p align="left">
