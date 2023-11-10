@@ -31,8 +31,8 @@
   	- https://react-ecommerce-1kmhbvmog-redhaanggara21.vercel.app/
 
 - Beta Testing
-  - inomart.vercel.app
-    - migrate (vercel into firebase)
+ 	- inomart.vercel.app/
+             - migrate (vercel into firebase)
 	
 <h3 align="left">Active On</h3>
 <p align="left">
