@@ -32,7 +32,7 @@
 
 - Beta Testing
   - inomart.vercel.app
-      migrate (vercel into firebase)
+    - migrate (vercel into firebase)
 	
 <h3 align="left">Active On</h3>
 <p align="left">
