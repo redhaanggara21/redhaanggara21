@@ -38,7 +38,7 @@
      - https://bby-chat.web.app/
      - https://bby-linktree.web.app/
      - https://food-ordering-murex.vercel.app/
-     - https://bright-sport.web.app (exp-imp scrapping)
+     - https://bright-sport.web.app (exp-imp scrapping wishlist)
 	
 <h3 align="left">Active On</h3>
 <p align="left">
