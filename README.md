@@ -43,10 +43,11 @@
      - https://rwp.vercel.app/
 - Unstable
      - https://pesanmakan-ashy.vercel.app/
-     - https://bta-lms.vercel.app/login
+     - https://bta-lms.vercel.app/
 - Stable
      - https://warung-angga.vercel.app/
      - https://brosur-gold.vercel.app/
+     - https://journal-theta-nine.vercel.app/
 	
 <h3 align="left">Active On</h3>
 <p align="left">
