@@ -45,6 +45,7 @@
      - https://pesanmakan-ashy.vercel.app/
      - https://bta-lms.vercel.app/
      - https://daily-journal-78kc4a6ps-redhaanggara21s-projects.vercel.app/
+     - https://pocket-hat.vercel.app/
 - Stable
      - https://warung-angga.vercel.app/
      - https://brosur-gold.vercel.app/
