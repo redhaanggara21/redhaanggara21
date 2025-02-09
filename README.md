@@ -52,6 +52,7 @@
      - https://journal-theta-nine.vercel.app/
      - https://am-eight.vercel.app/
      - https://erecap.vercel.app/
+     - https://sticky-prisma.vercel.app/
 	
 <h3 align="left">Active On</h3>
 <p align="left">
