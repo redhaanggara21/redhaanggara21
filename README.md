@@ -47,6 +47,7 @@
      - https://daily-journal-78kc4a6ps-redhaanggara21s-projects.vercel.app/
      - https://pocket-hat.vercel.app/
      - https://feedback-six-psi.vercel.app/
+     - https://jamgopak.vercel.app
  
 - Stable
      - https://warung-angga.vercel.app/
