@@ -48,6 +48,7 @@
      - https://pocket-hat.vercel.app/
      - https://feedback-six-psi.vercel.app/
      - https://jamgopak.vercel.app
+     - https://write-it-sand.vercel.app/
  
 - Stable
      - https://warung-angga.vercel.app/
