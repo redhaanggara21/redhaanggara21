@@ -63,6 +63,7 @@
      - https://tryout-alpha.vercel.app/
      - https://redwed.vercel.app/
      - https://landingpage-rose-six.vercel.app/
+     - https://blog-5n2p.vercel.app/
  
  - Release
  	- https://warung-angga.vercel.app/	
