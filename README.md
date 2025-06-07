@@ -62,6 +62,7 @@
      - https://quiz-wa-eight.vercel.app/sign-in
      - https://tryout-alpha.vercel.app/
      - https://redwed.vercel.app/
+     - https://landingpage-rose-six.vercel.app/
  
  - Release
  	- https://warung-angga.vercel.app/	
