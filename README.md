@@ -20,6 +20,7 @@
 	- https://docs.x.immutable.com/
    	- https://www.phoenixframework.org
    	- https://github.com/redhaanggara21/Hello-tech
+   	- https://github.com/redhaanggara21/Deep-Learning-Projects
 
 - Alpha Testing:
 	- https://icy-bush-3198.on.fleek.co/
