@@ -52,6 +52,7 @@
      - https://jamgopak.vercel.app
      - https://write-it-sand.vercel.app/
      - https://wakasir.vercel.app/
+     - https://videpost-m6cf.vercel.app/
  
 - Stable
      - https://warung-angga.vercel.app/
@@ -68,7 +69,9 @@
      - https://blog-5n2p.vercel.app/
  
  - Release
- 	- https://warung-angga.vercel.app/	
+ 	- https://warung-angga.vercel.app/
+  - Revamp 2026
+    	- 
 	
 <h3 align="left">Active On</h3>
 <p align="left">
