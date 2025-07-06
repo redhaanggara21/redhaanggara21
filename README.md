@@ -53,6 +53,7 @@
      - https://write-it-sand.vercel.app/
      - https://wakasir.vercel.app/
      - https://videpost-m6cf.vercel.app/
+     - https://pos-web-ashy.vercel.app/
  
 - Stable
      - https://warung-angga.vercel.app/
